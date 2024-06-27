@@ -1,0 +1,55 @@
+.navbar {
+  color: black;
+}
+.navbar-brand {
+  color: white;
+}
+.navbar-nav .nav-link {
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+}
+.colb {
+  color: black;
+  border: 1px solid black;
+}
+.ull {
+  margin-right: 30px;
+}
+.search {
+  margin-right: 10px;
+}
+.box {
+}
+.box h1 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: 600;
+}
+.box h1 span {
+  font-size: 20px;
+  color: gray;
+  position: relative;
+  bottom: 5px;
+}
+.pic1 {
+  border-radius: 15px;
+  margin-top: 20px;
+}
+.img1 {
+  background-color: rgb(202, 121, 134);
+  border-radius: 15px;
+  padding-bottom: 20px;
+}
+.img1 h1,
+p {
+  margin-left: 20px;
+}
+.img1 button {
+  border-radius: 10px;
+  font-size: 15px;
+  margin-left: 275px;
+}
+.img2 img {
+  border-radius: 15px;
+  margin-top: 20px;
+}
